@@ -4,9 +4,9 @@
     <title> title</title>
     </head>
   <body>
-   
-    <h1>title</h1>
-    <p>Welcome to</p>
+    <%- include layouts %>
+    <h1><%= MAMAMAtest %></h1>
+    <p>Welcome to <%= title %></p>
 
     <b>List work</b> <br>
     Form by 60310075  => <a href="te.ejs">คลิ้ก</a>
