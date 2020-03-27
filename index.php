@@ -2,14 +2,15 @@
 <html>
   <head>
     <title> title </title>
+    <meta charset="utf-8" />
     </head>
   <body>
-    <%- include layouts %>
+ 
     <h1> FINAL </h1>
     <p>Welcome to final </p>
 
     <b>List work</b> <br>
-    Form by 60310075  => <a href="https://manussawee.herokuapp.com">test</a>
+    test_final by 60310075  => <a href="final.html">test</a>
     <br>
     final by 60310075 => <a href="final.html">final</a> 
   </div>
